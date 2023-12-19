@@ -1,0 +1,1 @@
+System.out.println("Admin Test locators Class")
